@@ -3,6 +3,11 @@
     "name": "Lite Browser",
     "slug": "lite-browser",
     "version": "1.0.0",
+    "extra": {
+  "eas": {
+    "projectId": "b36dd728-c77e-4326-8bca-8fd62fe6344a"
+  }
+},
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
